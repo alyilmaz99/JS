@@ -1,6 +1,6 @@
 a = 'js';
 b = 10;
-
+//-
 function learnScope(){
     console.log(a,b);
     if(true){
